@@ -15,7 +15,7 @@ Unlike traditional scanners like **Nmap**, AMXScan is built with **anonymity and
 
 ### **Installation on Linux**:
 ```bash
-git clone https://github.com/AMX!Phantom/amxscan.git  
+git clone https://github.com/amx1phantom/amxscan.git  
 cd amxscan  
 chmod +x amxscan.py  
 python amxscan.py --help.
